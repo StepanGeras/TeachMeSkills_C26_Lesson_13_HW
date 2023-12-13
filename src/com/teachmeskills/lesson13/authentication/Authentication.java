@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson13.information;
+package com.teachmeskills.lesson13.authentication;
 
 
 import com.teachmeskills.lesson13.custom_exception.WrongLoginException;

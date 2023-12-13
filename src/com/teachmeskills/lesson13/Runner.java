@@ -1,6 +1,6 @@
 package com.teachmeskills.lesson13;
 
-import com.teachmeskills.lesson13.information.Authentication;
+import com.teachmeskills.lesson13.authentication.Authentication;
 
 /**
  * Создать класс, в котором будет статический метод.
