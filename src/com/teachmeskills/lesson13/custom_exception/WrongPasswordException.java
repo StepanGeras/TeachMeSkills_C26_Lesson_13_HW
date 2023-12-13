@@ -10,6 +10,7 @@ public class WrongPasswordException extends Exception {
 
     public WrongPasswordException(int validationExceptionCode, String password) {
         super(password);
+        this.validationExceptionCode = validationExceptionCode;
     }
 
 }
