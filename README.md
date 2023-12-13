@@ -3,9 +3,9 @@ Lesson 13
 
 Create a class that will have a static method.
 This method takes three parameters as input:
-Login
-Password
-confirmPassword
+  Login
+  Password
+  confirmPassword
 All fields are of String data type.
 login must be less than 20 characters long and must not contain
 spaces.
